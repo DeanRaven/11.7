@@ -1,0 +1,19 @@
+table {
+    border: solid rgb(116, 113, 113) 3px;
+    border-collapse: collapse;
+    width: 600px;
+    height: 300px;
+ }
+ /* границы ячеек первого ряда таблицы */
+ th {
+    border: 1px solid rgb(116, 113, 113);
+    text-align: center;
+    background-color: azure;
+ }
+ td {
+    border: 1px solid rgb(116, 113, 113);
+    text-align: center;
+ }
+ h3 {
+   padding-left: 12%;
+ }
